@@ -1,0 +1,23 @@
+{
+  "name": "dirtyhikes",
+  "version": "0.0.1-dev",
+  "description": "Off the beaten path.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dirtyhikes/dirtyhikes.git"
+  },
+  "author": "Adrian Sonnenschein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirtyhikes/dirtyhikes/issues"
+  },
+  "homepage": "https://github.com/dirtyhikes/dirtyhikes",
+  "dependencies": {
+    "express": "^4.13.3",
+    "nunjucks": "^2.1.0"
+  }
+}
